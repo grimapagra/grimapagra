@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @grimapagra
-- 👀 I’m interested in anime, random facts and lately emotional intelligence.
+- 👀 I’m interested in random facts and lately emotional intelligence.
 - 🌱 I’m currently learning HTML&CSS, and hopefully Ruby and Ruby on rails too.
 - 💞️ I’m looking to collaborate with everyone in web development topics.
 
